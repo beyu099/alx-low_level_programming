@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - This describes the main function of puts
- * return: 0
+ * main - the drscription of main
+ *
+ * Return: 0
  */
 
 int main(void)
