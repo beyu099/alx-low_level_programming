@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - main block
+ * main - This describes the main function of puts
  * return: 0
  */
 
