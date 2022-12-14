@@ -7,12 +7,8 @@
 /* more headers goes there
  * main - the description for generatimg random number using n
  *
- * Retur: 0
- * /
-
-
-
-/* betty style doc for function main goes there */
+ * Return: 0
+ */
 
 int main(void)
 
