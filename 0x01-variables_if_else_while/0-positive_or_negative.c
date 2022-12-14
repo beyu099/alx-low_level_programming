@@ -5,14 +5,13 @@
 #include <time.h>
 
 /**
- *
  ** main - description for anything positive is better than anything negative
  *
  *
  *
  ** Return: 0
  *
- *     */
+ **/
 
 int main(void)
 
