@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * Main - This code prints randomly generated numbers
+ * Main - (Description) This code prints randomly generated numbers
  *
  * Return: 0
  */
