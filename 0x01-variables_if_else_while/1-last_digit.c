@@ -6,7 +6,7 @@
  * Main - (Description) This code prints randomly generated numbers
  *
  * Return: 0
- */
+ **/
 
 int main(void)
 {
