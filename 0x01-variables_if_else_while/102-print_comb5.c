@@ -5,7 +5,7 @@
  * Return: 0 Always
  */
 
-int man(void)
+int main(void)
 {
 	int i, j;
 
