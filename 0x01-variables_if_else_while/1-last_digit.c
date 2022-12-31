@@ -3,9 +3,8 @@
 #include <stdio.h>
 
 /**
- * Main - (Description) This code prints randomly generated numbers
- *
- * Return: 0
+ * main - (Description) This code prints randomly generated numbers
+ * Return: Always 0
  **/
 
 int main(void)
